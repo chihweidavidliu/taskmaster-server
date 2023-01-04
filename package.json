@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "enzyme": "^3.8.0",
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "passport-mock-strategy": "^1.1.1",
     "superagent": "^4.1.0",
     "supertest": "^3.4.2"
